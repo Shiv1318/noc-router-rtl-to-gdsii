@@ -1,0 +1,594 @@
+
+
+Subcircuit pins:
+Circuit 1: NAND2X1                         |Circuit 2: NAND2X1                         
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes NAND2X1 and NAND2X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: AOI22X1                         |Circuit 2: AOI22X1                         
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+C                                          |C                                          
+D                                          |D                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes AOI22X1 and AOI22X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: OAI21X1                         |Circuit 2: OAI21X1                         
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+C                                          |C                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes OAI21X1 and OAI21X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: AND2X2                          |Circuit 2: AND2X2                          
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes AND2X2 and AND2X2 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: DFFSR                           |Circuit 2: DFFSR                           
+-------------------------------------------|-------------------------------------------
+Q                                          |Q                                          
+CLK                                        |CLK                                        
+R                                          |R                                          
+S                                          |S                                          
+D                                          |D                                          
+gnd                                        |gnd                                        
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes DFFSR and DFFSR are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: DFFPOSX1                        |Circuit 2: DFFPOSX1                        
+-------------------------------------------|-------------------------------------------
+Q                                          |Q                                          
+CLK                                        |CLK                                        
+D                                          |D                                          
+gnd                                        |gnd                                        
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes DFFPOSX1 and DFFPOSX1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: INVX1                           |Circuit 2: INVX1                           
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes INVX1 and INVX1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: BUFX4                           |Circuit 2: BUFX4                           
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes BUFX4 and BUFX4 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: AOI21X1                         |Circuit 2: AOI21X1                         
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+C                                          |C                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes AOI21X1 and AOI21X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: NAND3X1                         |Circuit 2: NAND3X1                         
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+C                                          |C                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes NAND3X1 and NAND3X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: OAI22X1                         |Circuit 2: OAI22X1                         
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+C                                          |C                                          
+D                                          |D                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes OAI22X1 and OAI22X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: INVX2                           |Circuit 2: INVX2                           
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes INVX2 and INVX2 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: BUFX2                           |Circuit 2: BUFX2                           
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes BUFX2 and BUFX2 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: OR2X2                           |Circuit 2: OR2X2                           
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes OR2X2 and OR2X2 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: XNOR2X1                         |Circuit 2: XNOR2X1                         
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes XNOR2X1 and XNOR2X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: INVX8                           |Circuit 2: INVX8                           
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes INVX8 and INVX8 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: NOR3X1                          |Circuit 2: NOR3X1                          
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+C                                          |C                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes NOR3X1 and NOR3X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: CLKBUF1                         |Circuit 2: CLKBUF1                         
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes CLKBUF1 and CLKBUF1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: MUX2X1                          |Circuit 2: MUX2X1                          
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+S                                          |S                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes MUX2X1 and MUX2X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: XOR2X1                          |Circuit 2: XOR2X1                          
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes XOR2X1 and XOR2X1 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: INVX4                           |Circuit 2: INVX4                           
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes INVX4 and INVX4 are equivalent.
+
+
+Subcircuit pins:
+Circuit 1: NOR2X1                          |Circuit 2: NOR2X1                          
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+gnd                                        |gnd                                        
+Y                                          |Y                                          
+vdd                                        |vdd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes NOR2X1 and NOR2X1 are equivalent.
+
+Subcircuit summary:
+Circuit 1: noc_router                      |Circuit 2: noc_router                      
+-------------------------------------------|-------------------------------------------
+NAND2X1 (914)                              |NAND2X1 (914)                              
+AOI22X1 (441)                              |AOI22X1 (441)                              
+OAI21X1 (1594)                             |OAI21X1 (1594)                             
+AND2X2 (24)                                |AND2X2 (24)                                
+DFFSR (65)                                 |DFFSR (65)                                 
+DFFPOSX1 (720)                             |DFFPOSX1 (720)                             
+INVX1 (280)                                |INVX1 (280)                                
+BUFX4 (688)                                |BUFX4 (688)                                
+AOI21X1 (336)                              |AOI21X1 (336)                              
+NAND3X1 (530)                              |NAND3X1 (530)                              
+OAI22X1 (25)                               |OAI22X1 (25)                               
+INVX2 (219)                                |INVX2 (219)                                
+BUFX2 (160)                                |BUFX2 (160)                                
+OR2X2 (15)                                 |OR2X2 (15)                                 
+XNOR2X1 (35)                               |XNOR2X1 (35)                               
+INVX8 (45)                                 |INVX8 (45)                                 
+NOR3X1 (40)                                |NOR3X1 (40)                                
+CLKBUF1 (85)                               |CLKBUF1 (85)                               
+MUX2X1 (5)                                 |MUX2X1 (5)                                 
+XOR2X1 (5)                                 |XOR2X1 (5)                                 
+INVX4 (5)                                  |INVX4 (5)                                  
+NOR2X1 (175)                               |NOR2X1 (175)                               
+Number of devices: 6406                    |Number of devices: 6406                    
+Number of nets: 6540                       |Number of nets: 6540                       
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: noc_router                      |Circuit 2: noc_router                      
+-------------------------------------------|-------------------------------------------
+rst_n                                      |rst_n                                      
+s_in_ready                                 |s_in_ready                                 
+e_in_ready                                 |e_in_ready                                 
+n_in_ready                                 |n_in_ready                                 
+w_in_ready                                 |w_in_ready                                 
+l_in_ready                                 |l_in_ready                                 
+s_out_valid                                |s_out_valid                                
+e_out_valid                                |e_out_valid                                
+w_out_valid                                |w_out_valid                                
+n_out_valid                                |n_out_valid                                
+l_out_valid                                |l_out_valid                                
+n_out_data[1]                              |n_out_data[1]                              
+s_out_data[19]                             |s_out_data[19]                             
+s_out_data[4]                              |s_out_data[4]                              
+s_out_data[9]                              |s_out_data[9]                              
+s_out_data[15]                             |s_out_data[15]                             
+s_out_data[0]                              |s_out_data[0]                              
+n_out_data[15]                             |n_out_data[15]                             
+n_out_data[14]                             |n_out_data[14]                             
+n_out_data[6]                              |n_out_data[6]                              
+e_out_data[15]                             |e_out_data[15]                             
+e_out_data[17]                             |e_out_data[17]                             
+e_out_data[14]                             |e_out_data[14]                             
+n_out_data[18]                             |n_out_data[18]                             
+e_out_data[13]                             |e_out_data[13]                             
+e_out_data[0]                              |e_out_data[0]                              
+e_out_data[16]                             |e_out_data[16]                             
+e_out_data[6]                              |e_out_data[6]                              
+w_out_data[13]                             |w_out_data[13]                             
+w_out_data[20]                             |w_out_data[20]                             
+w_out_data[12]                             |w_out_data[12]                             
+w_out_data[6]                              |w_out_data[6]                              
+l_out_data[23]                             |l_out_data[23]                             
+l_out_data[8]                              |l_out_data[8]                              
+l_out_data[6]                              |l_out_data[6]                              
+l_out_data[4]                              |l_out_data[4]                              
+l_out_data[5]                              |l_out_data[5]                              
+l_out_data[7]                              |l_out_data[7]                              
+n_out_data[23]                             |n_out_data[23]                             
+n_out_data[0]                              |n_out_data[0]                              
+n_out_data[17]                             |n_out_data[17]                             
+n_out_data[16]                             |n_out_data[16]                             
+n_out_data[11]                             |n_out_data[11]                             
+n_out_data[20]                             |n_out_data[20]                             
+n_out_data[8]                              |n_out_data[8]                              
+n_out_data[19]                             |n_out_data[19]                             
+n_out_data[9]                              |n_out_data[9]                              
+n_out_data[10]                             |n_out_data[10]                             
+n_out_data[22]                             |n_out_data[22]                             
+n_out_data[2]                              |n_out_data[2]                              
+s_out_data[3]                              |s_out_data[3]                              
+s_out_data[8]                              |s_out_data[8]                              
+s_out_data[12]                             |s_out_data[12]                             
+e_out_data[23]                             |e_out_data[23]                             
+e_out_data[12]                             |e_out_data[12]                             
+e_out_data[4]                              |e_out_data[4]                              
+e_out_data[21]                             |e_out_data[21]                             
+n_out_data[21]                             |n_out_data[21]                             
+n_out_data[12]                             |n_out_data[12]                             
+n_out_data[5]                              |n_out_data[5]                              
+e_out_data[3]                              |e_out_data[3]                              
+e_out_data[7]                              |e_out_data[7]                              
+e_out_data[19]                             |e_out_data[19]                             
+e_out_data[11]                             |e_out_data[11]                             
+e_out_data[1]                              |e_out_data[1]                              
+w_out_data[16]                             |w_out_data[16]                             
+w_out_data[10]                             |w_out_data[10]                             
+w_out_data[0]                              |w_out_data[0]                              
+w_out_data[9]                              |w_out_data[9]                              
+l_out_data[21]                             |l_out_data[21]                             
+l_out_data[22]                             |l_out_data[22]                             
+l_out_data[12]                             |l_out_data[12]                             
+l_out_data[11]                             |l_out_data[11]                             
+l_out_data[9]                              |l_out_data[9]                              
+l_out_data[16]                             |l_out_data[16]                             
+l_out_data[3]                              |l_out_data[3]                              
+l_out_data[15]                             |l_out_data[15]                             
+l_out_data[14]                             |l_out_data[14]                             
+l_out_data[2]                              |l_out_data[2]                              
+l_out_data[13]                             |l_out_data[13]                             
+w_out_data[1]                              |w_out_data[1]                              
+l_out_data[17]                             |l_out_data[17]                             
+w_out_data[3]                              |w_out_data[3]                              
+l_out_data[19]                             |l_out_data[19]                             
+w_out_data[4]                              |w_out_data[4]                              
+l_out_data[20]                             |l_out_data[20]                             
+n_out_data[7]                              |n_out_data[7]                              
+s_out_data[13]                             |s_out_data[13]                             
+s_out_data[5]                              |s_out_data[5]                              
+s_out_data[16]                             |s_out_data[16]                             
+e_out_data[10]                             |e_out_data[10]                             
+s_out_data[6]                              |s_out_data[6]                              
+l_out_data[18]                             |l_out_data[18]                             
+n_out_data[13]                             |n_out_data[13]                             
+w_out_data[15]                             |w_out_data[15]                             
+s_out_data[7]                              |s_out_data[7]                              
+s_out_data[18]                             |s_out_data[18]                             
+n_out_data[3]                              |n_out_data[3]                              
+w_out_data[5]                              |w_out_data[5]                              
+n_out_data[4]                              |n_out_data[4]                              
+s_out_data[17]                             |s_out_data[17]                             
+s_out_data[23]                             |s_out_data[23]                             
+s_out_data[20]                             |s_out_data[20]                             
+l_out_data[10]                             |l_out_data[10]                             
+w_out_data[7]                              |w_out_data[7]                              
+s_out_data[10]                             |s_out_data[10]                             
+s_out_data[21]                             |s_out_data[21]                             
+s_out_data[14]                             |s_out_data[14]                             
+w_out_data[8]                              |w_out_data[8]                              
+e_out_data[9]                              |e_out_data[9]                              
+e_out_data[20]                             |e_out_data[20]                             
+e_out_data[5]                              |e_out_data[5]                              
+e_out_data[2]                              |e_out_data[2]                              
+s_out_data[11]                             |s_out_data[11]                             
+s_out_data[1]                              |s_out_data[1]                              
+w_out_data[21]                             |w_out_data[21]                             
+w_out_data[19]                             |w_out_data[19]                             
+w_out_data[17]                             |w_out_data[17]                             
+s_out_data[22]                             |s_out_data[22]                             
+s_out_data[2]                              |s_out_data[2]                              
+w_out_data[18]                             |w_out_data[18]                             
+w_out_data[11]                             |w_out_data[11]                             
+e_out_data[22]                             |e_out_data[22]                             
+e_out_data[18]                             |e_out_data[18]                             
+w_out_data[23]                             |w_out_data[23]                             
+w_out_data[22]                             |w_out_data[22]                             
+w_out_data[2]                              |w_out_data[2]                              
+e_out_data[8]                              |e_out_data[8]                              
+w_out_data[14]                             |w_out_data[14]                             
+l_out_data[1]                              |l_out_data[1]                              
+l_out_data[0]                              |l_out_data[0]                              
+l_out_ready                                |l_out_ready                                
+n_out_ready                                |n_out_ready                                
+w_out_ready                                |w_out_ready                                
+e_out_ready                                |e_out_ready                                
+s_out_ready                                |s_out_ready                                
+w_in_data[4]                               |w_in_data[4]                               
+w_in_data[19]                              |w_in_data[19]                              
+e_in_data[0]                               |e_in_data[0]                               
+e_in_data[3]                               |e_in_data[3]                               
+w_in_data[0]                               |w_in_data[0]                               
+s_in_data[9]                               |s_in_data[9]                               
+s_in_data[11]                              |s_in_data[11]                              
+w_in_data[17]                              |w_in_data[17]                              
+e_in_data[11]                              |e_in_data[11]                              
+s_in_data[12]                              |s_in_data[12]                              
+s_in_data[18]                              |s_in_data[18]                              
+w_in_data[10]                              |w_in_data[10]                              
+e_in_data[4]                               |e_in_data[4]                               
+s_in_data[19]                              |s_in_data[19]                              
+n_in_data[15]                              |n_in_data[15]                              
+s_in_data[5]                               |s_in_data[5]                               
+n_in_data[9]                               |n_in_data[9]                               
+e_in_data[7]                               |e_in_data[7]                               
+n_in_data[22]                              |n_in_data[22]                              
+s_in_data[22]                              |s_in_data[22]                              
+w_in_data[18]                              |w_in_data[18]                              
+n_in_data[21]                              |n_in_data[21]                              
+e_in_data[15]                              |e_in_data[15]                              
+s_in_data[8]                               |s_in_data[8]                               
+w_in_data[15]                              |w_in_data[15]                              
+l_in_data[9]                               |l_in_data[9]                               
+e_in_data[17]                              |e_in_data[17]                              
+l_in_data[10]                              |l_in_data[10]                              
+l_in_data[14]                              |l_in_data[14]                              
+e_in_data[1]                               |e_in_data[1]                               
+s_in_data[17]                              |s_in_data[17]                              
+e_in_data[22]                              |e_in_data[22]                              
+e_in_data[21]                              |e_in_data[21]                              
+l_in_data[17]                              |l_in_data[17]                              
+e_in_data[10]                              |e_in_data[10]                              
+w_in_data[2]                               |w_in_data[2]                               
+e_in_data[9]                               |e_in_data[9]                               
+e_in_data[19]                              |e_in_data[19]                              
+e_in_data[12]                              |e_in_data[12]                              
+e_in_data[6]                               |e_in_data[6]                               
+w_in_data[16]                              |w_in_data[16]                              
+w_in_data[21]                              |w_in_data[21]                              
+s_in_data[1]                               |s_in_data[1]                               
+e_in_data[5]                               |e_in_data[5]                               
+l_in_data[11]                              |l_in_data[11]                              
+n_in_data[5]                               |n_in_data[5]                               
+n_in_data[14]                              |n_in_data[14]                              
+n_in_data[12]                              |n_in_data[12]                              
+l_in_data[18]                              |l_in_data[18]                              
+s_in_data[4]                               |s_in_data[4]                               
+l_in_data[20]                              |l_in_data[20]                              
+n_in_data[7]                               |n_in_data[7]                               
+l_in_data[15]                              |l_in_data[15]                              
+l_in_data[21]                              |l_in_data[21]                              
+w_in_data[14]                              |w_in_data[14]                              
+e_in_data[16]                              |e_in_data[16]                              
+l_in_data[1]                               |l_in_data[1]                               
+n_in_data[23]                              |n_in_data[23]                              
+n_in_data[3]                               |n_in_data[3]                               
+l_in_data[2]                               |l_in_data[2]                               
+e_in_data[8]                               |e_in_data[8]                               
+n_in_data[20]                              |n_in_data[20]                              
+n_in_data[8]                               |n_in_data[8]                               
+e_in_data[20]                              |e_in_data[20]                              
+l_in_data[13]                              |l_in_data[13]                              
+s_in_data[0]                               |s_in_data[0]                               
+s_in_data[21]                              |s_in_data[21]                              
+l_in_data[3]                               |l_in_data[3]                               
+n_in_data[1]                               |n_in_data[1]                               
+n_in_data[0]                               |n_in_data[0]                               
+s_in_data[3]                               |s_in_data[3]                               
+l_in_data[0]                               |l_in_data[0]                               
+s_in_data[10]                              |s_in_data[10]                              
+n_in_data[16]                              |n_in_data[16]                              
+e_in_data[13]                              |e_in_data[13]                              
+s_in_data[7]                               |s_in_data[7]                               
+s_in_data[23]                              |s_in_data[23]                              
+l_in_data[4]                               |l_in_data[4]                               
+n_in_data[11]                              |n_in_data[11]                              
+n_in_data[10]                              |n_in_data[10]                              
+n_in_data[19]                              |n_in_data[19]                              
+n_in_data[4]                               |n_in_data[4]                               
+l_in_data[19]                              |l_in_data[19]                              
+l_in_data[16]                              |l_in_data[16]                              
+l_in_data[22]                              |l_in_data[22]                              
+w_in_data[1]                               |w_in_data[1]                               
+w_in_data[3]                               |w_in_data[3]                               
+w_in_data[6]                               |w_in_data[6]                               
+e_in_data[23]                              |e_in_data[23]                              
+s_in_data[14]                              |s_in_data[14]                              
+e_in_data[18]                              |e_in_data[18]                              
+s_in_data[13]                              |s_in_data[13]                              
+w_in_data[11]                              |w_in_data[11]                              
+w_in_data[13]                              |w_in_data[13]                              
+w_in_data[20]                              |w_in_data[20]                              
+w_in_data[22]                              |w_in_data[22]                              
+w_in_data[5]                               |w_in_data[5]                               
+w_in_data[9]                               |w_in_data[9]                               
+w_in_data[7]                               |w_in_data[7]                               
+s_in_data[20]                              |s_in_data[20]                              
+l_in_data[5]                               |l_in_data[5]                               
+s_in_data[6]                               |s_in_data[6]                               
+s_in_data[15]                              |s_in_data[15]                              
+s_in_data[2]                               |s_in_data[2]                               
+w_in_data[23]                              |w_in_data[23]                              
+w_in_data[8]                               |w_in_data[8]                               
+n_in_data[18]                              |n_in_data[18]                              
+l_in_data[6]                               |l_in_data[6]                               
+n_in_data[13]                              |n_in_data[13]                              
+l_in_data[7]                               |l_in_data[7]                               
+n_in_data[6]                               |n_in_data[6]                               
+n_in_data[17]                              |n_in_data[17]                              
+e_in_data[2]                               |e_in_data[2]                               
+e_in_data[14]                              |e_in_data[14]                              
+n_in_data[2]                               |n_in_data[2]                               
+s_in_data[16]                              |s_in_data[16]                              
+l_in_data[8]                               |l_in_data[8]                               
+w_in_data[12]                              |w_in_data[12]                              
+l_in_data[23]                              |l_in_data[23]                              
+l_in_data[12]                              |l_in_data[12]                              
+e_in_valid                                 |e_in_valid                                 
+s_in_valid                                 |s_in_valid                                 
+n_in_valid                                 |n_in_valid                                 
+w_in_valid                                 |w_in_valid                                 
+l_in_valid                                 |l_in_valid                                 
+clk                                        |clk                                        
+vdd                                        |vdd                                        
+gnd                                        |gnd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes noc_router and noc_router are equivalent.
+
+Final result: Circuits match uniquely.
+.

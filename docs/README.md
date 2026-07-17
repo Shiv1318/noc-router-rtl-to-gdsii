@@ -56,26 +56,7 @@ GDSII Generation (Magic VLSI)
 
 ## Repository Structure
 
-```
-noc-router-rtl-to-gdsii/
-│
-├── docs/
-├── physical/
-│   ├── reports/
-│   ├── logs/
-│   ├── noc_router.def
-│   ├── noc_router.gds
-│   ├── noc_router.lef
-│   ├── noc_router.sdf
-│   ├── noc_router.spef
-│   └── noc_router.spice
-├── rtl/
-├── tb/
-├── waveform/
-└── README.md
-```
 
----
 
 ## Features
 
